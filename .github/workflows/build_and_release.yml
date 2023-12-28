@@ -41,4 +41,4 @@ jobs:
           files: |
             staging/*
           token: ${{ secrets.GH_TOKEN }}
-          tag_name: v1
+          tag_name: build
